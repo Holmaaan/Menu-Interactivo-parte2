@@ -1,0 +1,17 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Espitia",
+  "license": "ISC",
+  "description": "Proyecto formativo",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^12.1.0",
+    "uuid": "^11.0.3"
+  },
+  "keywords": []
+}
